@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Технології розробки\Bank\AutomatedTellerMachine\bin\Debug\net6.0\AutomatedTellerMachine.deps.json
+C:\Users\Admin\source\repos\Технології розробки\Bank\AutomatedTellerMachine\bin\Debug\net6.0\AutomatedTellerMachine.dll
+C:\Users\Admin\source\repos\Технології розробки\Bank\AutomatedTellerMachine\bin\Debug\net6.0\AutomatedTellerMachine.pdb
+C:\Users\Admin\source\repos\Технології розробки\Bank\AutomatedTellerMachine\obj\Debug\net6.0\AutomatedTellerMachine.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Технології розробки\Bank\AutomatedTellerMachine\obj\Debug\net6.0\AutomatedTellerMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Технології розробки\Bank\AutomatedTellerMachine\obj\Debug\net6.0\AutomatedTellerMachine.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Технології розробки\Bank\AutomatedTellerMachine\obj\Debug\net6.0\AutomatedTellerMachine.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Технології розробки\Bank\AutomatedTellerMachine\obj\Debug\net6.0\AutomatedTellerMachine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Технології розробки\Bank\AutomatedTellerMachine\obj\Debug\net6.0\AutomatedTellerMachine.dll
+C:\Users\Admin\source\repos\Технології розробки\Bank\AutomatedTellerMachine\obj\Debug\net6.0\refint\AutomatedTellerMachine.dll
+C:\Users\Admin\source\repos\Технології розробки\Bank\AutomatedTellerMachine\obj\Debug\net6.0\AutomatedTellerMachine.pdb
+C:\Users\Admin\source\repos\Технології розробки\Bank\AutomatedTellerMachine\obj\Debug\net6.0\ref\AutomatedTellerMachine.dll

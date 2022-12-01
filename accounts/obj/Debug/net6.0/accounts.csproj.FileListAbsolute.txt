@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Технології розробки\Bank\accounts\bin\Debug\net6.0\accounts.deps.json
+C:\Users\Admin\source\repos\Технології розробки\Bank\accounts\bin\Debug\net6.0\accounts.dll
+C:\Users\Admin\source\repos\Технології розробки\Bank\accounts\bin\Debug\net6.0\accounts.pdb
+C:\Users\Admin\source\repos\Технології розробки\Bank\accounts\obj\Debug\net6.0\accounts.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Технології розробки\Bank\accounts\obj\Debug\net6.0\accounts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Технології розробки\Bank\accounts\obj\Debug\net6.0\accounts.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Технології розробки\Bank\accounts\obj\Debug\net6.0\accounts.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Технології розробки\Bank\accounts\obj\Debug\net6.0\accounts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Технології розробки\Bank\accounts\obj\Debug\net6.0\accounts.dll
+C:\Users\Admin\source\repos\Технології розробки\Bank\accounts\obj\Debug\net6.0\refint\accounts.dll
+C:\Users\Admin\source\repos\Технології розробки\Bank\accounts\obj\Debug\net6.0\accounts.pdb
+C:\Users\Admin\source\repos\Технології розробки\Bank\accounts\obj\Debug\net6.0\ref\accounts.dll

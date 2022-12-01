@@ -1,0 +1,156 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Account/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AutomatedTellerMachine": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Account.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Account.dll": {}
+        }
+      },
+      "accounts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/accounts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/accounts.dll": {}
+        }
+      },
+      "AutomatedTellerMachine/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AutomatedTellerMachine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutomatedTellerMachine.dll": {}
+        }
+      },
+      "Bank/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Bank.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Account/1.0.0": {
+      "type": "project",
+      "path": "../Account/Account.csproj",
+      "msbuildProject": "../Account/Account.csproj"
+    },
+    "accounts/1.0.0": {
+      "type": "project",
+      "path": "../accounts/accounts.csproj",
+      "msbuildProject": "../accounts/accounts.csproj"
+    },
+    "AutomatedTellerMachine/1.0.0": {
+      "type": "project",
+      "path": "../AutomatedTellerMachine/AutomatedTellerMachine.csproj",
+      "msbuildProject": "../AutomatedTellerMachine/AutomatedTellerMachine.csproj"
+    },
+    "Bank/1.0.0": {
+      "type": "project",
+      "path": "../Bank/Bank.csproj",
+      "msbuildProject": "../Bank/Bank.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Account >= 1.0.0",
+      "AutomatedTellerMachine >= 1.0.0",
+      "Bank >= 1.0.0",
+      "accounts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Технології розробки\\Bank\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\Технології розробки\\Bank\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\Технології розробки\\Bank\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Admin\\source\\repos\\Технології розробки\\Bank\\accounts\\accounts.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\Технології розробки\\Bank\\accounts\\accounts.csproj"
+            },
+            "C:\\Users\\Admin\\source\\repos\\Технології розробки\\Bank\\Account\\Account.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\Технології розробки\\Bank\\Account\\Account.csproj"
+            },
+            "C:\\Users\\Admin\\source\\repos\\Технології розробки\\Bank\\AutomatedTellerMachine\\AutomatedTellerMachine.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\Технології розробки\\Bank\\AutomatedTellerMachine\\AutomatedTellerMachine.csproj"
+            },
+            "C:\\Users\\Admin\\source\\repos\\Технології розробки\\Bank\\Bank\\Bank.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\Технології розробки\\Bank\\Bank\\Bank.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "Account": "1.0.0",
+          "AutomatedTellerMachine": "1.0.0",
+          "Bank": "1.0.0",
+          "accounts": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "Account/1.0.0": {
+        "dependencies": {
+          "AutomatedTellerMachine": "1.0.0"
+        },
+        "runtime": {
+          "Account.dll": {}
+        }
+      },
+      "accounts/1.0.0": {
+        "runtime": {
+          "accounts.dll": {}
+        }
+      },
+      "AutomatedTellerMachine/1.0.0": {
+        "runtime": {
+          "AutomatedTellerMachine.dll": {}
+        }
+      },
+      "Bank/1.0.0": {
+        "runtime": {
+          "Bank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Account/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "accounts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutomatedTellerMachine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
